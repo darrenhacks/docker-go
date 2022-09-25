@@ -1,0 +1,8 @@
+# GoLand
+.idea/
+
+# macOS directory metadata
+.DS_Store
+
+# The main application
+docker-go
